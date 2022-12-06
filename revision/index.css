@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+ul{
+    background-color: burlywood;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    color: brown;
+    
+}
+h1{
+    color: brown;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
