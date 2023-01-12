@@ -1,3 +1,5 @@
+<?php  require_once "databaseConnection.phph";?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

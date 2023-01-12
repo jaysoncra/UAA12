@@ -1,3 +1,6 @@
+<?php  require_once "databaseConnection.phph";
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -11,6 +14,7 @@
 
 <!-- traitement -->
 <?php 
+   
     function pgcd($nbr1, $nbr2){
         $reste = $nbr2;
         
