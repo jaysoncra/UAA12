@@ -1,13 +1,16 @@
-<?php  
-    require_once "databaseConnection.php";
-    $sth = $dbh ->prepare("select * from biens");
-    $sth->execute();
-
-    print("Récupération de toutes les lignes d'un jeu de résultats :\n");
-    $result = $sth->fetchAll(PDO::FETCH_OBJ);
-    print_r($result);
+<?php
+    require_once "<Config/databaseConnexion.php";
+    try {
+        $query = "SELECT * FROM `biens`";
+        $ajoute = $pdo->prepare($query);
+        $ajoute->execute();
+        $biens = $ajoute->fetchAll();
+    } catch (PDOException $e) {
+        $message = $e->getMessage();
+        die($message);
+    }
+    echo '<pre>' , var_dump($biens) , '</pre>';
 ?>
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -16,19 +19,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="CSS/index.css">
     <link rel="stylesheet" href="CSS/animation.css">
+    <link rel="stylesheet" href="CSS/flex.css">
     <title>Mon agence</title>
 </head>
 <body>
     <header>
         <ul class="flex space-evenly">
             <li class="menu"><a href="index.php">Home</a></li>
-            <li class="menu"><a href="profil.php">Page profil</a></li>
+            <li  class="menu"><a href="profil.php">Page profil</a></li>
+            <li  class="menu"><a href="connexion.php">Connexion</a></li>
             <li class="imageMenu"><a href="index.php"><ion-icon size="large" name="home-outline"></ion-icon></a></li>
             <li class="imageMenu"><a href="profil.php"><ion-icon size="large" name="person-outline"></ion-icon></a></li>
-            <li class="imageMenu"><a href="sign-in.php"><ion-icon size="large" name="log-in-outline"></ion-icon></a></li>
-            <li class="imageMenu"><a href="sign-up.php"><ion-icon size="large" name="add-outline"></ion-icon></a></li>
-            <li class="menu"><a href="sign-in.php">Sign in</a></li>
-            <li class="menu"><a href="sign-up.php">Sign up</a></li>
         </ul>
     </header>
     <main>
@@ -42,7 +43,7 @@
                     <div class="center">
                         <p><span>250m²</span> - <span>Gembloux</span></p>
                         <h3>250000€</h3>
-                        <a href="voirLeBien.html" class="btn btn-page">Voir le bien</a>
+                        <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
                     </div>
                 </div>
             </div>
@@ -53,7 +54,7 @@
                     <div class="center">
                         <p><span>300m²</span> - <span>Bruxelles</span></p>
                         <h3>310000€</h3>
-                        <a href="voirLeBien.html" class="btn btn-page">Voir le bien</a>
+                        <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
                     </div>
                 </div>
             </div>
@@ -64,7 +65,7 @@
                     <div class="center">
                         <p><span>150m²</span> - <span>Charleroi</span></p>
                         <h3>250000€</h3>
-                        <a href="voirLeBien.html" class="btn btn-page">Voir le bien</a>
+                        <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
                     </div>
                 </div>
             </div>
@@ -75,7 +76,7 @@
                     <div class="center">
                         <p><span>150m²</span> - <span>Ardenne</span></p>
                         <h3>156000€</h3>
-                        <a href="voirLeBien.html" class="btn btn-page">Voir le bien</a>
+                        <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
                     </div>
                 </div>
             </div>

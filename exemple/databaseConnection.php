@@ -2,11 +2,13 @@
 <?php
 
 try {
-    $strConnection ='mysql:host=10.10.51.98;dbname=immobilier';
+    $strConnection ='mysql:host=10.10.51.252;dbname=immobilier';
 
-    $pdo = new PDO($strConnection, "jayson", "root");
-    die ("Connexion réussie");
-} catch (\Throwable $e) {
+    $dbh = new PDO($strConnection, "jayson", "root", [
+        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_OBJ,
+        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
+    ]);
+} catch (PDOException $e) {
     die ("ERREUR : " . $e -> getMessage());
 }
 ?>
