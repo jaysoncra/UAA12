@@ -1,0 +1,5 @@
+C:\Users\jayso\OneDrive\Bureau\CeUAA11_2023_CARAjayson\obj\Debug\netcoreapp3.1\CeUAA11_2023_CARAjayson.csproj.AssemblyReference.cache
+C:\Users\jayso\OneDrive\Bureau\CeUAA11_2023_CARAjayson\obj\Debug\netcoreapp3.1\CeUAA11_2023_CARAjayson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\OneDrive\Bureau\CeUAA11_2023_CARAjayson\obj\Debug\netcoreapp3.1\CeUAA11_2023_CARAjayson.AssemblyInfoInputs.cache
+C:\Users\jayso\OneDrive\Bureau\CeUAA11_2023_CARAjayson\obj\Debug\netcoreapp3.1\CeUAA11_2023_CARAjayson.AssemblyInfo.cs
+C:\Users\jayso\OneDrive\Bureau\CeUAA11_2023_CARAjayson\obj\Debug\netcoreapp3.1\CeUAA11_2023_CARAjayson.csproj.CoreCompileInputs.cache
