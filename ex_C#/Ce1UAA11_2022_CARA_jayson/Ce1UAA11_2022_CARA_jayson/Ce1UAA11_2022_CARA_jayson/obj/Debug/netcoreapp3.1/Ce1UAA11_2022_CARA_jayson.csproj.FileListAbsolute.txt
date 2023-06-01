@@ -1,0 +1,14 @@
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.exe
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.deps.json
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.runtimeconfig.json
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.runtimeconfig.dev.json
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.dll
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\bin\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.pdb
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.csproj.AssemblyReference.cache
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.GeneratedMSBuildEditorConfig.editorconfig
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.AssemblyInfoInputs.cache
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.AssemblyInfo.cs
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.csproj.CoreCompileInputs.cache
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.dll
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.pdb
+H:\ex_C#\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\Ce1UAA11_2022_CARA_jayson\obj\Debug\netcoreapp3.1\Ce1UAA11_2022_CARA_jayson.genruntimeconfig.cache

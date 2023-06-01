@@ -1,0 +1,43 @@
+form label {
+    display: block;
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+form legend {
+    font-size: 3em;
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px;
+    border-radius: 10px 25px;
+}
+
+form {
+    margin: 20px;
+    text-align: center;
+}
+
+form input {
+    border-radius: 100em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    outline: none;
+    padding: .5rem 1.5rem;
+    width: 70%;
+    text-align: center;
+}
+
+.form-group input {
+    border: 2px solid red;
+    border-radius: 100em;
+    color: grey;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    outline: none;
+    padding: .5rem 1.5rem;
+    width: 80%;
+}
+
+.form-group label {
+    font-size: 30px;
+}

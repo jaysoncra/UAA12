@@ -1,0 +1,5 @@
+H:\ex_C#\IMATP5_CaraJayson\IMATP5_CaraJayson\obj\Debug\netcoreapp3.1\IMATP5_CaraJayson.csproj.AssemblyReference.cache
+H:\ex_C#\IMATP5_CaraJayson\IMATP5_CaraJayson\obj\Debug\netcoreapp3.1\IMATP5_CaraJayson.GeneratedMSBuildEditorConfig.editorconfig
+H:\ex_C#\IMATP5_CaraJayson\IMATP5_CaraJayson\obj\Debug\netcoreapp3.1\IMATP5_CaraJayson.AssemblyInfoInputs.cache
+H:\ex_C#\IMATP5_CaraJayson\IMATP5_CaraJayson\obj\Debug\netcoreapp3.1\IMATP5_CaraJayson.AssemblyInfo.cs
+H:\ex_C#\IMATP5_CaraJayson\IMATP5_CaraJayson\obj\Debug\netcoreapp3.1\IMATP5_CaraJayson.csproj.CoreCompileInputs.cache

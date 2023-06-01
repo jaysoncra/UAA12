@@ -1,0 +1,14 @@
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.exe
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.deps.json
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.runtimeconfig.json
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.runtimeconfig.dev.json
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.dll
+C:\Users\220484\source\repos\Application de tableaux\bin\Debug\netcoreapp3.1\Application de tableaux.pdb
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.csproj.AssemblyReference.cache
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.AssemblyInfoInputs.cache
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.AssemblyInfo.cs
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.csproj.CoreCompileInputs.cache
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.dll
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.pdb
+C:\Users\220484\source\repos\Application de tableaux\obj\Debug\netcoreapp3.1\Application de tableaux.genruntimeconfig.cache

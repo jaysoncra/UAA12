@@ -1,0 +1,5 @@
+H:\visual_studio\console_C\console_C\obj\Debug\netcoreapp3.1\console_C.csproj.AssemblyReference.cache
+H:\visual_studio\console_C\console_C\obj\Debug\netcoreapp3.1\console_C.GeneratedMSBuildEditorConfig.editorconfig
+H:\visual_studio\console_C\console_C\obj\Debug\netcoreapp3.1\console_C.AssemblyInfoInputs.cache
+H:\visual_studio\console_C\console_C\obj\Debug\netcoreapp3.1\console_C.AssemblyInfo.cs
+H:\visual_studio\console_C\console_C\obj\Debug\netcoreapp3.1\console_C.csproj.CoreCompileInputs.cache

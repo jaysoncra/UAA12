@@ -1,0 +1,14 @@
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.csproj.AssemblyReference.cache
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.GeneratedMSBuildEditorConfig.editorconfig
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.AssemblyInfoInputs.cache
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.AssemblyInfo.cs
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.csproj.CoreCompileInputs.cache
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.exe
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.deps.json
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.runtimeconfig.json
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.runtimeconfig.dev.json
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.dll
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\bin\Debug\netcoreapp3.1\CHOIXPEAU.pdb
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.dll
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.pdb
+H:\visual_studio\CHOIXPEAU\CHOIXPEAU\obj\Debug\netcoreapp3.1\CHOIXPEAU.genruntimeconfig.cache
